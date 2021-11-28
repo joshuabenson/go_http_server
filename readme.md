@@ -3,4 +3,4 @@ Created using this tutorial: https://tutorialedge.net/golang/creating-simple-web
 
 ### runing server
 <code>go run server.go</code>
-page can then be viewed at http://localhost:8081/index.html
+<p>page can then be viewed at http://localhost:8081/index.html
